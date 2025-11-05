@@ -20,7 +20,6 @@
 
 ### Pré-requisitos
 
-- **Python 3.8+** (apenas se for rodar o código fonte)
 - **FFmpeg** (necessário para conversão de áudio)
 
 ```bash
